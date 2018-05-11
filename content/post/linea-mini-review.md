@@ -7,7 +7,7 @@ comments: true
 draft: false
 tags: [review, la marzocco, linea mini,]
 categories: [review]
-image: /posts-content/prefect-espresso-shot.jpg
+image: /posts-content/linea-mini-review.jpg
 ---
 
 The linea Mini is a compact version of the popular, well-known, classic Linea. If you don't recognize the name, than you don't know espresso! 

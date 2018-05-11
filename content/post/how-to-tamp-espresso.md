@@ -1,6 +1,6 @@
 ---
 title: "How to Tamp Espresso"
-date: 2018-05-11T14:12:35-04:00
+date: 2016-08-31T14:12:35-04:00
 next: 
 prev: 
 comments: true
