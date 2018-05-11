@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/choosing-an-espresso-grinder/</loc>
+    <lastmod>2016-10-31T10:51:25-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-05-02T14:41:58-04:00</lastmod>
     <priority>0</priority>
@@ -94,6 +99,12 @@
   </url>
   
   <url>
+    <loc>/tags/coffee-grinder/</loc>
+    <lastmod>2016-10-31T10:51:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/coffee-scale/</loc>
     <lastmod>2018-05-02T13:55:32-04:00</lastmod>
     <priority>0</priority>
@@ -114,6 +125,12 @@
   <url>
     <loc>/tags/espresso/</loc>
     <lastmod>2018-04-13T11:06:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/espresso-grinder/</loc>
+    <lastmod>2016-10-31T10:51:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,6 +167,12 @@
   <url>
     <loc>/categories/how-to/</loc>
     <lastmod>2018-05-02T13:55:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/how-to-choose-a-grinder/</loc>
+    <lastmod>2016-10-31T10:51:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   

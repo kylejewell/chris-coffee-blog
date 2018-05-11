@@ -1,10 +1,10 @@
 ---
 title: "Linea Mini Review"
-date: 2018-05-11T13:56:19-04:00
+date: 2016-10-03T13:56:19-04:00
 next: 
 prev: 
 comments: true
-draft: true
+draft: false
 tags: [review, la marzocco, linea mini,]
 categories: [review]
 image: /posts-content/prefect-espresso-shot.jpg
