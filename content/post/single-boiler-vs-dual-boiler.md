@@ -10,7 +10,7 @@ categories: [reviews]
 image: /posts-content/alex-duetto-lineup.jpg
 ---
 
-<p>When brewing espresso drinks there is a need for two different temperatures.  Espresso is prepared best when the coffee is extracted at temperatures well below boiling point, around 198-204F.  However, when it comes time to steam milk for lattes and other milk-based espresso drinks, this requires a large amount of steam at a temperature well above boiling.</p>
+<p>When brewing espresso drinks there is a need for two different temperatures. Espresso is prepared best when the coffee is extracted at temperatures well below boiling point, around 198-204F. However, when it comes time to steam milk for lattes and other milk-based espresso drinks, this requires a large amount of steam at a temperature well above boiling.</p>
 <p>There are varied methods that manufacturers use to tackle the issue of handling two temperature outputs.  One system includes a single boiler with a dual thermostat, which allows you to control the temperature in the settings panel while you are at each step in the drink making process.  It takes more time (up to several minutes) though, for the machine to acclimate to each setting.</p>
 <p>An alternative system includes a (DB) Double Boiler set up within the machine.  One set up for brew temperature, and one set to steam temperature, which allows for the preferred temperature at each output phase without lag time.</p>
 <p>A third option are (HX) Heat Exchanger machines, which utilize a single boiler that keeps the water at steam temperature but uses a cool water that is flash heated instantly to brew temperature when ready for pulling the espresso shot.</p>
