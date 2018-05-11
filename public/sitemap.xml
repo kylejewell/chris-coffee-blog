@@ -28,6 +28,31 @@
   </url>
   
   <url>
+    <loc>/single-boiler-vs-dual-boiler/</loc>
+    <lastmod>2017-09-07T15:25:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/whats-the-difference-between-cold-brew-and-iced-coffee/</loc>
+    <lastmod>2017-03-15T08:43:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/how-is-coffee-grown/</loc>
+    <lastmod>2017-01-20T09:23:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/water-filtration-what-to-do-when-your-water-isnt-up-to-snuff/</loc>
+    <lastmod>2016-12-19T09:57:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/brew-with-french-press/</loc>
+    <lastmod>2016-11-29T10:21:56-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2018-05-02T14:41:58-04:00</lastmod>
     <priority>0</priority>
@@ -40,7 +65,31 @@
   </url>
   
   <url>
+    <loc>/tags/brewing-methods/</loc>
+    <lastmod>2016-11-29T10:21:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coffee-basics/</loc>
+    <lastmod>2017-01-20T09:23:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/coffee-basics/</loc>
+    <lastmod>2017-01-20T09:23:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coffee-bean/</loc>
+    <lastmod>2017-01-20T09:23:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,8 +100,32 @@
   </url>
   
   <url>
+    <loc>/tags/cold-brew/</loc>
+    <lastmod>2017-03-15T08:43:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/double-boiler/</loc>
+    <lastmod>2017-09-07T15:25:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/espresso/</loc>
     <lastmod>2018-04-13T11:06:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/filtration/</loc>
+    <lastmod>2016-12-19T09:57:10-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/french-press/</loc>
+    <lastmod>2016-11-29T10:21:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,6 +150,12 @@
   <url>
     <loc>/categories/how-to/</loc>
     <lastmod>2018-05-02T13:55:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/iced-coffee/</loc>
+    <lastmod>2017-03-15T08:43:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,8 +228,26 @@
   </url>
   
   <url>
+    <loc>/tags/single-boiler/</loc>
+    <lastmod>2017-09-07T15:25:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <lastmod>2018-05-02T13:55:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/water/</loc>
+    <lastmod>2016-12-19T09:57:10-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/water-quality/</loc>
+    <lastmod>2016-12-19T09:57:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   

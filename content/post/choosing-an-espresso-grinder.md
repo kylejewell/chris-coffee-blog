@@ -4,7 +4,7 @@ date: 2016-10-31T10:51:25-04:00
 next: 
 prev: 
 comments: true
-draft: true
+draft: false
 tags: [how to choose a grinder, espresso grinder, coffee grinder,]
 categories: [how-to]
 image: /posts-content/prefect-espresso-shot.jpg

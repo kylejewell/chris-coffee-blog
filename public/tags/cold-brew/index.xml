@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cold Brew on </title>
+    <link>/tags/cold-brew/</link>
+    <description>Recent content in Cold Brew on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Mar 2017 08:43:41 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/cold-brew/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What&#39;s the Difference Between Cold Brew and Iced Coffee?</title>
+      <link>/whats-the-difference-between-cold-brew-and-iced-coffee/</link>
+      <pubDate>Wed, 15 Mar 2017 08:43:41 -0400</pubDate>
+      
+      <guid>/whats-the-difference-between-cold-brew-and-iced-coffee/</guid>
+      <description>Since the recent popularity of cold brew coffee many consumers have wondered - what is the difference between cold brew and iced coffee? The main difference is the brewing method itself; cold brew is steeped with cold water for 12-48 hours, where iced coffee is brewed with hot water and then mixed with cold water and refrigerated. Both methods are relatively easy to execute, but the flavor profile achieved can be dramatically different.</description>
+    </item>
+    
+  </channel>
+</rss>
