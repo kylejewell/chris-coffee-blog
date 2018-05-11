@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on </title>
+    <link>/tags/recipes/</link>
+    <description>Recent content in Recipes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Apr 2018 08:35:19 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hibiscus Latte, The Perfect Spring Latte</title>
+      <link>/hibiscus-latte-the-perfect-spring-latte/</link>
+      <pubDate>Wed, 25 Apr 2018 08:35:19 -0400</pubDate>
+      
+      <guid>/hibiscus-latte-the-perfect-spring-latte/</guid>
+      <description>Spring is finally arrived in Upstate New York after frequent teasing by mother nature. As May rolls in with its wavering rainy days and sun flooded afternoons, this comforting sweet and floral recipe is the perfect last hot drink to curl up with as we wait for summer. The Hibiscus Latteis a great compliment to many coffees because, as you may have already noted, many varieties of beans naturally carry the subtle floral tea-like undertones in their flavor profile.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+baseurl         = "/"
+theme           = "chris-blog"
+languageCode    = "en-US"
+disqusShortname = "chriscoffee"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Chris' Coffee"
+  subtitle    = "Experts in Coffee Since 1975"
+
+  cover       = "img/cc-blog_header.jpg"
+  description = "Experts in coffee since 1975, Chris' Coffee strives to share our industry knowledge and answer all question our customers have. Subscribe to our blog for the latest knowledge added weeekly."
+  metaDescription = ""
+  googleAnalytics = "UA-1513659-2"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "chriscoffeeserv"
+  fbName = "chriscoffeeservice"
+  instaName = "chriscoffeeservice"
+  inName = "chriscoffeeservice"
+
+  logo = "chris-coffee-logo-vertical.svg"
+  smlogo = "home.svg"
+  orgName = "Chris' Coffee Service"
+  orgWebsite = "https://www.chriscoffee.com/"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Chris"
+  authorAvatar = "img/chris-icon.jpg"
+  authorLocation = "Albany, NY"
+  authorWebsite = "https://www.chriscoffee.com/"
+  authorDescription = "Experts "
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Shop"
+  url = "https://www.chriscoffee.com/"
+  weight = 200
+
+[[menu.main]]
+  name = "Reviews"
+  url = "/tags/reviews/"
+  weight = 100
+
+[[menu.main]]
+  name = "Maintenance"
+  url = "/categories/maintenance/"
+  weight = 99
+
+[[menu.main]]
+  name = "How-To"
+  url = "/categories/how-to"
+  weight = 98
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 95

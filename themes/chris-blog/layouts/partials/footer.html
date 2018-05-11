@@ -1,0 +1,14 @@
+<footer class="site-footer outer">
+  <div class="site-footer-content inner">
+    <section class="copyright" style="line-height: 1.3em;">
+      <a href="/">{{.Site.Params.orgName}}</a> {{.Site.Params.copyright}}
+    </section>
+    <nav class="site-footer-nav">
+        <a href="/">Latest Posts</a>
+        {{with .Site.Params.fbName}}<a href="https://www.facebook.com/{{.}}" target="_blank" rel="noopener">Facebook</a>{{end}}
+        {{with .Site.Params.twitterName}}<a href="https://twitter.com/{{.}}" target="_blank" rel="noopener">Twitter</a>{{end}}
+        {{with .Site.Params.instaName}}<a href="https://instagram.com/{{.}}" target="_blank" rel="noopener">Instagram</a>{{end}}
+        {{with .Site.Params.inName}}<a href="https://www.linkedin.com/company/{{.}}" target="_blank" rel="noopener">LinkedIn</a>{{end}}
+    </nav>  
+  </div>
+</footer>
