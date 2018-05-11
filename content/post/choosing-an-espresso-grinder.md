@@ -9,6 +9,8 @@ tags: [how to choose a grinder, espresso grinder, coffee grinder,]
 categories: [how-to]
 image: /posts-content/prefect-espresso-shot.jpg
 ---
+
+<!-- LACEY "HOW TO CHOOSE THE RIGHT GRINDER" -->
 <p>A consistent grind is hugely important in the process of making a high-quality cup of coffee, which is why the grinder is the most important piece of equipment when it comes to coffee preparation. Can it be more important than the actual machine itself? Yes, it can be. The grinder determines if the coffee you brew after you grind actually can be any good. Bad grind = bad coffee.<br>To prove the level of consistency of grind, we need a <a href="https://www.chriscoffee.com/Espresso_Grinders_s/3857.htm?utm_source=article&utm_medium=blog&utm_content=choosing-an-espresso-grinder" target="_blank">burr grinder</a> and not a blade grinder. Burr grinders provide speed, quality, efficiency, consistency, and flavorful extractions.</p>
 
 <h3>Flat vs. Conical Burrs</h3>
