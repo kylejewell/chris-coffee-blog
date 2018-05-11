@@ -18,6 +18,9 @@
       {{if .Paginator.HasNext}}
           <a class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</a>
       {{end}}
+<!--       {{ if .Paginator.TotalPages }}
+        <a class="newer-posts" href="{{ .Paginator.First.URL }}">&larr; <span class="hide">First Page</span></a>
+      {{ end }} -->
     </nav>
   </div>
 </main>
