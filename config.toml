@@ -25,13 +25,13 @@ paginate        = 6
   smlogo = "home.svg"
   orgName = "Chris' Coffee Service"
   orgWebsite = "https://www.chriscoffee.com/"
-  orgDescription = "Here is a description placeholder for your org"
+  orgDescription = "Spcializing in the best home and commercial espresso machines and roasting over 100k pounds a month we know coffee. Join us in our journey finding the best home and commercial coffee equipment from top brands like La Spaziale, Slayer, Rancilio, La Cimbali, La Marzocco, and many more."
 
   author = "Chris"
   authorAvatar = "img/chris-icon.jpg"
   authorLocation = "Albany, NY"
   authorWebsite = "https://www.chriscoffee.com/"
-  authorDescription = "Experts "
+  authorDescription = "Starting out of the back of an El Camino with the help of my family and a couple off duty cops, Chris' Coffee Service has been the experts in coffee since 1975."
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -50,11 +50,6 @@ paginate        = 6
   name = "Reviews"
   url = "/tags/reviews/"
   weight = 100
-
-[[menu.main]]
-  name = "Maintenance"
-  url = "/categories/maintenance/"
-  weight = 99
 
 [[menu.main]]
   name = "How-To"

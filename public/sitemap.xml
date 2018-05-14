@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/doser-or-doserless-coffee-grinder/</loc>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/linea-mini-vs-gs3/</loc>
     <lastmod>2018-05-02T14:41:58-04:00</lastmod>
   </url>
@@ -58,8 +63,18 @@
   </url>
   
   <url>
+    <loc>/linea-mini-review/</loc>
+    <lastmod>2016-10-03T13:56:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/how-to-tamp-espresso/</loc>
+    <lastmod>2016-08-31T14:12:35-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2018-05-02T14:41:58-04:00</lastmod>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,13 +96,13 @@
   </url>
   
   <url>
-    <loc>/tags/coffee-basics/</loc>
+    <loc>/categories/coffee-basics/</loc>
     <lastmod>2017-01-20T09:23:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/coffee-basics/</loc>
+    <loc>/tags/coffee-basics/</loc>
     <lastmod>2017-01-20T09:23:30-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,7 +115,7 @@
   
   <url>
     <loc>/tags/coffee-grinder/</loc>
-    <lastmod>2016-10-31T10:51:25-04:00</lastmod>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,6 +128,18 @@
   <url>
     <loc>/tags/cold-brew/</loc>
     <lastmod>2017-03-15T08:43:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/doser/</loc>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/doserless/</loc>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -159,14 +186,14 @@
   </url>
   
   <url>
-    <loc>/tags/how-to/</loc>
-    <lastmod>2018-04-13T11:06:27-04:00</lastmod>
+    <loc>/categories/how-to/</loc>
+    <lastmod>2018-05-02T13:55:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/how-to/</loc>
-    <lastmod>2018-05-02T13:55:32-04:00</lastmod>
+    <loc>/tags/how-to/</loc>
+    <lastmod>2018-04-13T11:06:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,13 +240,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-05-02T14:41:58-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/recipes/</loc>
-    <lastmod>2018-04-25T08:35:19-04:00</lastmod>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -230,13 +251,31 @@
   </url>
   
   <url>
-    <loc>/tags/reviews/</loc>
-    <lastmod>2018-05-02T14:41:58-04:00</lastmod>
+    <loc>/tags/recipes/</loc>
+    <lastmod>2018-04-25T08:35:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/review/</loc>
+    <lastmod>2016-10-03T13:56:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/review/</loc>
+    <lastmod>2016-10-03T13:56:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/reviews/</loc>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reviews/</loc>
     <lastmod>2018-05-02T14:41:58-04:00</lastmod>
     <priority>0</priority>
   </url>
