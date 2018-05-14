@@ -6,7 +6,7 @@ prev:
 comments: true
 draft: false
 tags: [brewing methods, french press,]
-categories: [how-to]
+categories: [how-to, coffee basics,]
 image: /posts-content/brew-with-french-press.jpg
 ---
 

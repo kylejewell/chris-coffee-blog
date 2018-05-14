@@ -96,13 +96,13 @@
   </url>
   
   <url>
-    <loc>/categories/coffee-basics/</loc>
+    <loc>/tags/coffee-basics/</loc>
     <lastmod>2017-01-20T09:23:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/coffee-basics/</loc>
+    <loc>/categories/coffee-basics/</loc>
     <lastmod>2017-01-20T09:23:30-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -186,14 +186,14 @@
   </url>
   
   <url>
-    <loc>/categories/how-to/</loc>
-    <lastmod>2018-05-02T13:55:32-04:00</lastmod>
+    <loc>/tags/how-to/</loc>
+    <lastmod>2018-04-13T11:06:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/how-to/</loc>
-    <lastmod>2018-04-13T11:06:27-04:00</lastmod>
+    <loc>/categories/how-to/</loc>
+    <lastmod>2018-05-02T13:55:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -245,20 +245,14 @@
   </url>
   
   <url>
-    <loc>/categories/recipes/</loc>
-    <lastmod>2018-04-25T08:35:19-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/recipes/</loc>
     <lastmod>2018-04-25T08:35:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/review/</loc>
-    <lastmod>2016-10-03T13:56:19-04:00</lastmod>
+    <loc>/categories/recipes/</loc>
+    <lastmod>2018-04-25T08:35:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -269,14 +263,20 @@
   </url>
   
   <url>
-    <loc>/categories/reviews/</loc>
-    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
+    <loc>/categories/review/</loc>
+    <lastmod>2016-10-03T13:56:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/reviews/</loc>
     <lastmod>2018-05-02T14:41:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/reviews/</loc>
+    <lastmod>2018-05-08T07:32:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -5,8 +5,8 @@ next:
 prev: 
 comments: true
 draft: false
-tags: [how-to,espresso,]
-categories: [how-to]
+tags: [espresso, perfect extraction,]
+categories: [coffee basics, how-to]
 image: /posts-content/brew-ratio.jpg
 ---
 

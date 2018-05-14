@@ -48,7 +48,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Reviews"
-  url = "/tags/reviews/"
+  url = "/categories/reviews/"
   weight = 100
 
 [[menu.main]]

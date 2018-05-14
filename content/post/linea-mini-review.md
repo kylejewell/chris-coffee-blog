@@ -5,8 +5,8 @@ next:
 prev: 
 comments: true
 draft: false
-tags: [review, la marzocco, linea mini,]
-categories: [review]
+tags: [la marzocco, linea mini,]
+categories: [reviews]
 image: /posts-content/linea-mini-review.jpg
 ---
 
