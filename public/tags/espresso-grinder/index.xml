@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Espresso Grinder on </title>
-    <link>/tags/espresso-grinder/</link>
+    <link>https://chris-blog-86702.firebaseapp.com/tags/espresso-grinder/</link>
     <description>Recent content in Espresso Grinder on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 31 Oct 2016 10:51:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 10:04:17 -0400</lastBuildDate>
     
-	<atom:link href="/tags/espresso-grinder/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-blog-86702.firebaseapp.com/tags/espresso-grinder/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Choosing the Right Baratza Coffee Grinder</title>
+      <link>https://chris-blog-86702.firebaseapp.com/choosing-the-right-baratza-coffee-grinder/</link>
+      <pubDate>Tue, 15 May 2018 10:04:17 -0400</pubDate>
+      
+      <guid>https://chris-blog-86702.firebaseapp.com/choosing-the-right-baratza-coffee-grinder/</guid>
+      <description>As you start down your coffee journey it doesn&#39;t take long to realize the best coffee comes down to great equpment. Whether you&#39;re brewing at home, office, or commercial setting you want great flavor an consistency. This can&#39;t be done without a quality grinder. Since their inception in 1999, Baratza has produced quality and competitively priced drip coffee and espresso grinders. With their ability to produce such a variety of quality grinders we break it down by use so you can find the right Baratza coffee grinder for you.</description>
+    </item>
+    
+    <item>
       <title>Choosing an Espresso Grinder</title>
-      <link>/choosing-an-espresso-grinder/</link>
+      <link>https://chris-blog-86702.firebaseapp.com/choosing-an-espresso-grinder/</link>
       <pubDate>Mon, 31 Oct 2016 10:51:25 -0400</pubDate>
       
-      <guid>/choosing-an-espresso-grinder/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/choosing-an-espresso-grinder/</guid>
       <description>A consistent grind is hugely important in the process of making a high-quality cup of coffee, which is why the grinder is the most important piece of equipment when it comes to coffee preparation. Can it be more important than the actual machine itself? Yes, it can be. The grinder determines if the coffee you brew after you grind actually can be any good. Bad grind = bad coffee.
 To prove the level of consistency of grind, we need a burr grinder and not a blade grinder.</description>
     </item>

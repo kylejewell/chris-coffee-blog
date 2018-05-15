@@ -5,7 +5,7 @@ next:
 prev: 
 comments: true
 draft: false
-tags: [doserless,doser,coffee-grinder,]
+tags: [coffee grinder, doserless, doser,]
 categories: [reviews]
 image: /posts-content/doser-doserless-coffee-grinder.jpg
 ---

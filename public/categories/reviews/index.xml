@@ -2,41 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reviews on </title>
-    <link>/categories/reviews/</link>
+    <link>https://chris-blog-86702.firebaseapp.com/categories/reviews/</link>
     <description>Recent content in Reviews on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 May 2018 07:32:21 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 10:04:17 -0400</lastBuildDate>
     
-	<atom:link href="/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-blog-86702.firebaseapp.com/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Choosing the Right Baratza Coffee Grinder</title>
+      <link>https://chris-blog-86702.firebaseapp.com/choosing-the-right-baratza-coffee-grinder/</link>
+      <pubDate>Tue, 15 May 2018 10:04:17 -0400</pubDate>
+      
+      <guid>https://chris-blog-86702.firebaseapp.com/choosing-the-right-baratza-coffee-grinder/</guid>
+      <description>As you start down your coffee journey it doesn&#39;t take long to realize the best coffee comes down to great equpment. Whether you&#39;re brewing at home, office, or commercial setting you want great flavor an consistency. This can&#39;t be done without a quality grinder. Since their inception in 1999, Baratza has produced quality and competitively priced drip coffee and espresso grinders. With their ability to produce such a variety of quality grinders we break it down by use so you can find the right Baratza coffee grinder for you.</description>
+    </item>
+    
+    <item>
       <title>Doser or Doserless Coffee Grinder</title>
-      <link>/doser-or-doserless-coffee-grinder/</link>
+      <link>https://chris-blog-86702.firebaseapp.com/doser-or-doserless-coffee-grinder/</link>
       <pubDate>Tue, 08 May 2018 07:32:21 -0400</pubDate>
       
-      <guid>/doser-or-doserless-coffee-grinder/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/doser-or-doserless-coffee-grinder/</guid>
       <description>A debate of preference and application, not exactly over function, choosing between a doser or doserless coffee grinder there are a number of things to take into account. For everyone who takes coffee seriously – your beans are most important and logically your grinder next. That’s why the debate between a doser or doserless espresso grinder is a battle amongst coffee aficionados. There are five main factors in regard to your choice: price, consistency, volume, freshness, and cleanliness.</description>
     </item>
     
     <item>
       <title>Linea Mini vs GS3</title>
-      <link>/linea-mini-vs-gs3/</link>
+      <link>https://chris-blog-86702.firebaseapp.com/linea-mini-vs-gs3/</link>
       <pubDate>Wed, 02 May 2018 14:41:58 -0400</pubDate>
       
-      <guid>/linea-mini-vs-gs3/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/linea-mini-vs-gs3/</guid>
       <description>La Marzocco is known for their handmade, quality home espresso machines and commercial espresso machines. They have been building coffee machines since 1927, and introduced us to the double-boiler machine, amongst other industry innovations that they have pioneered over their nearly a century in the coffee industry. If you&#39;ve been in the market for a home espresso machine, you have definitely come across these two popular machines, loved by home baristas everywhere!</description>
     </item>
     
     <item>
       <title>Single Boiler vs Dual Boiler</title>
-      <link>/single-boiler-vs-dual-boiler/</link>
+      <link>https://chris-blog-86702.firebaseapp.com/single-boiler-vs-dual-boiler/</link>
       <pubDate>Thu, 07 Sep 2017 15:25:49 -0400</pubDate>
       
-      <guid>/single-boiler-vs-dual-boiler/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/single-boiler-vs-dual-boiler/</guid>
       <description>When brewing espresso drinks there is a need for two different temperatures. Espresso is prepared best when the coffee is extracted at temperatures well below boiling point, around 198-204F. However, when it comes time to steam milk for lattes and other milk-based espresso drinks, this requires a large amount of steam at a temperature well above boiling.
 There are varied methods that manufacturers use to tackle the issue of handling two temperature outputs.</description>
+    </item>
+    
+    <item>
+      <title>Linea Mini Review</title>
+      <link>https://chris-blog-86702.firebaseapp.com/linea-mini-review/</link>
+      <pubDate>Mon, 03 Oct 2016 13:56:19 -0400</pubDate>
+      
+      <guid>https://chris-blog-86702.firebaseapp.com/linea-mini-review/</guid>
+      <description>The linea Mini is a compact version of the popular, well-known, classic Linea. If you don&amp;rsquo;t recognize the name, than you don&amp;rsquo;t know espresso!
+This miniature beauty is available in 3 bold colors - red, white, black, and of course stainless steel. The simplicity of this machine makes it not only a breeze to use, but to maintain for years to come. Although the brew paddle resembles that of the GS/3 MP don&amp;rsquo;t be fooled, you cannot play around with the pre-infusion.</description>
     </item>
     
   </channel>

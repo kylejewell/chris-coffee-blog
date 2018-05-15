@@ -2,65 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>https://chris-blog-86702.firebaseapp.com/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-blog-86702.firebaseapp.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coffee Basics</title>
-      <link>/categories/coffee-basics/</link>
-      <pubDate>Fri, 20 Jan 2017 09:23:30 -0400</pubDate>
+      <link>https://chris-blog-86702.firebaseapp.com/categories/coffee-basics/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/coffee-basics/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/categories/coffee-basics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How To</title>
-      <link>/categories/how-to/</link>
-      <pubDate>Wed, 02 May 2018 13:55:32 -0400</pubDate>
+      <link>https://chris-blog-86702.firebaseapp.com/categories/how-to/</link>
+      <pubDate>Tue, 15 May 2018 10:04:17 -0400</pubDate>
       
-      <guid>/categories/how-to/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/categories/how-to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>/categories/recipes/</link>
+      <link>https://chris-blog-86702.firebaseapp.com/categories/recipes/</link>
       <pubDate>Wed, 25 Apr 2018 08:35:19 -0400</pubDate>
       
-      <guid>/categories/recipes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review</title>
-      <link>/categories/review/</link>
-      <pubDate>Mon, 03 Oct 2016 13:56:19 -0400</pubDate>
-      
-      <guid>/categories/review/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/categories/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reviews</title>
-      <link>/categories/reviews/</link>
-      <pubDate>Tue, 08 May 2018 07:32:21 -0400</pubDate>
+      <link>https://chris-blog-86702.firebaseapp.com/categories/reviews/</link>
+      <pubDate>Tue, 15 May 2018 10:04:17 -0400</pubDate>
       
-      <guid>/categories/reviews/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/categories/reviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/categories/search/</link>
+      <link>https://chris-blog-86702.firebaseapp.com/categories/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/search/</guid>
+      <guid>https://chris-blog-86702.firebaseapp.com/categories/search/</guid>
       <description></description>
     </item>
     
