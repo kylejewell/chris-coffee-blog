@@ -8,8 +8,8 @@ features = ["disqus", "google analytics"]
 min_version=0.31
 
 [author]
-  name = "Eueung Mulyana"
-  homepage = "https://www.telematika.org/"
+  name = "Kyle Jewell"
+  homepage = "https://jewell.solutions/"
 
 [original]
   name = "Casper"
