@@ -15,19 +15,19 @@ For everyone who considers coffee a religion – your beans are most important. 
 
 ## Price
 
-Shopping for an espresso grinder you’ll notice that there is a difference in price. Due to their greater complexity dosed grinders will generally be more expensive. With the grounds container and completely separate set of moving parts there is a slightly larger expense but in most cases isn’t a deciding factor.
+Shopping for an espresso grinder you’ll notice that there is a difference in price. Due to their greater complexity doser espresso grinders will generally be more expensive. The completely separate set of moving parts to dose contribute but in most cases isn’t a deciding factor.
 
 ## Consistency
 
-When selecting any coffee grinder whether it be for your drip coffee or espresso alike consistency is key in any recipe. For this reason, getting the same amount of ground coffee may be the most important factor of all when selecting between your doser or doserless coffee grinders. The primary reason some choose the doser is because they feel as though it assists them in getting the same amount of grinds every time. Every time the grinder turns on, it turns off when it’s reach the designated volume. The argument against this is that different coffee beans yield different results when grinding and that a doserless and weighing your coffee is the most accurate way of maintaining consistency across every brew or shot to shot.
+Consistency is key to any recipe and it couldn't be more imperative to pulling a shot of espresso. Your espresso grinder is one of the keys to cosistent shots: consistent grounds means consistent coffee. Getting the same amount of coffee may be the most important factor of all when selecting between your doser or doserless coffee grinders. The primary reason some choose the doser espresso grinder is because it assists them in getting the same amount of grinds every time. Every time the grinder turns on, it turns off when it’s reach the designated volume. The argument against this is that different coffee beans yield different results when grinding and that a doserless and weighing your coffee is the most accurate way of maintaining consistency across every brew or shot to shot.
 
 ## Volume
 
-Think about a busy café with staff changes, coffee changes, and many other variables effecting the product that’s coming out of the coffee shop every day. Now – you’re the customer…do you expect the same product? I bet you do! In high-volume situations a doser coffee grinder is commonplace and a better bet. The on demand espresso grinder helps maintain consistency in a high-volume coffee house. In this case you get an identical grind every time without the added step of having to weigh coffees.
+Think about a busy café where staff, the coffee beans, and many other factors are changing. All variables effecting the product that’s coming out of the coffee shop every day. Now – you’re the customer…do you expect the same product? I bet you do! In high-volume situations a doser coffee grinder is commonplace and a better bet. The on demand espresso grinder helps maintain consistency in a high-volume coffee house. In this case you get an identical grind every time without the added step of having to weigh coffees.
 
 ## Freshness
 
-In the coffee industry and many others now, freshness is key! When you’re selecting between doser and doserless coffee grinders this is no exception. Your doserless coffee grinder is always going to have an argument of maintaining greater freshness than a doser coffee grinder. There is nowhere for any excess coffee grinds to get trapped like is a doser.
+In the coffee industry and broadly the food industry freshness is key! When you’re selecting between a doser or doserless espresso grinder this is no exception. Your doserless coffee grinder is always going to have an argument of maintaining greater freshness than a doser coffee grinder. There is nowhere for any excess coffee grinds to get trapped like is a doser.
 
 ## Cleanliness
 

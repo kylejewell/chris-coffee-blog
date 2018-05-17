@@ -204,11 +204,6 @@
   </url>
   
   <url>
-    <loc>https://chris-blog-86702.firebaseapp.com/tags/index/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://chris-blog-86702.firebaseapp.com/tags/la-marzocco/</loc>
     <lastmod>2018-05-02T14:41:58-04:00</lastmod>
     <priority>0</priority>
@@ -266,15 +261,6 @@
     <loc>https://chris-blog-86702.firebaseapp.com/categories/reviews/</loc>
     <lastmod>2018-05-15T10:04:17-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chris-blog-86702.firebaseapp.com/categories/search/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chris-blog-86702.firebaseapp.com/search/</loc>
   </url>
   
   <url>

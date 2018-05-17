@@ -10,3 +10,16 @@ categories: [reviews]
 image: /posts-content/prefect-espresso-shot.jpg
 description: "Testing to see if this will get rid of the funny html that's showing up on the list."
 ---
+
+{{< compare-puqpressq1q2
+	"Lower Clamp Adjustment Wheel"
+	"Accepts All Portafilter Types"
+	"LCD display for pressure adjustment"
+	"Adjustable Pressure: 10-30kg (+/- 1kg)"
+	"One-Touch Cleaning Mode"
+	"12 month parts warranty"
+	"3 months labor warranty"
+	"Nano Coated Tamp Head"
+	"1.3 Second Cycle Duration"
+	"Ridged Lower Fork"
+	>}}

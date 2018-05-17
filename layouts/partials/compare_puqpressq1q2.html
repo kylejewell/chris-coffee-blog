@@ -1,0 +1,178 @@
+<style type="text/css">
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+.container {
+    color: #090a0b;
+    text-align: center;
+    font-size: 1.23rem;
+    width: 100%;
+    max-width: 1000px;
+    margin: 50px 10px;
+}
+
+.container img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    z-index: -1;
+}
+
+.container .plan {
+    margin: auto;
+    width: 50%;
+    position: relative;
+    float: left;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.container .plan:hover i,
+.container .plan.hover i {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.container .plan:first-of-type {
+    border-radius: 3px 0 0 3px;
+}
+
+.container .plan:last-of-type {
+    border-radius: 0 3px 3px 0;
+}
+
+.container * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+}
+
+.container header {
+    background-color: #26a8ed;
+    color: #ffffff;
+}
+
+.container .plan-title {
+    background-color: #26a8ed;
+    position: relative;
+    margin: auto;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.container .plan-cost {
+    padding: 40px 20px 10px;
+    text-align: right;
+}
+
+.container .plan-price {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+.container .plan-type {
+    opacity: 0.8;
+    font-size: 0.7em;
+    text-transform: uppercase;
+}
+
+.container .plan-features {
+    padding: 20px 0 20px;
+    margin: 0;
+    list-style: outside none none;
+}
+
+.container .plan-features li {
+    padding: 8px 5%;
+}
+
+.container .plan-features i {
+    margin-right: 8px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.container .plan-select {
+    padding: 20px;
+    text-align: center;
+}
+
+.container .plan-select a {
+    background-color: #3eb0ef;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    border-radius: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.container .featured {
+    margin-top: -10px;
+    border-color: #331926;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    border-radius: 8px;
+}
+
+.container .featured .plan-select {
+    padding: 30px 20px;
+}
+
+@media only screen and (max-width: 767px) {
+    .container .plan {
+        width: 50%;
+    }
+    .container .plan-title,
+    .container .plan-select a {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+    .container .plan-select,
+    .container .featured .plan-select {
+        padding: 20px;
+    }
+    .container .featured {
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .container .plan {
+        width: 100%;
+    }
+}
+</style>
+<div class="container">
+    <div class="plan">
+        <header>
+            <h4 class="plan-title">{{ .Get 0 }}</h4>
+        </header>
+        <ul class="plan-features">
+            <li><i class="ion-checkmark"></i>5GB Linux Web Space</li>
+            <li><i class="ion-checkmark"></i>5 MySQL Databases</li>
+            <li><i class="ion-checkmark"></i>Unlimited Email</li>
+            <li><i class="ion-checkmark"></i>250Gb mo Transfer</li>
+            <li><i class="ion-checkmark"></i>24/7 Tech Support</li>
+            <li><i class="ion-checkmark"></i>Daily Backups</li>
+        </ul>
+        <div class="plan-select"><a href="">Purchase</a></div>
+    </div>
+    <div class="plan">
+        <header>
+            <h4 class="plan-title">{{ .Get "product2" }}</h4>
+        </header>
+        <ul class="plan-features">
+            <li><i class="ion-close"></i>10GB Linux Web Space</li>
+            <li><i class="ion-close"></i>10 MySQL Databases</li>
+            <li><i class="ion-checkmark"></i>Unlimited Email</li>
+            <li><i class="ion-checkmark"></i>500Gb mo Transfer</li>
+            <li><i class="ion-checkmark"></i>24/7 Tech Support</li>
+            <li><i class="ion-checkmark"></i>Daily Backups</li>
+        </ul>
+        <div class="plan-select"><a href="">Purchase</a></div>
+    </div>
+</div>
