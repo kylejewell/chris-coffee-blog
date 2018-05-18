@@ -1,4 +1,4 @@
-baseurl         = "https://chris-blog-86702.firebaseapp.com/"
+baseurl         = "https://blog.chriscoffee.com/"
 theme           = "chris-blog"
 languageCode    = "en-US"
 disqusShortname = "chriscoffee"
