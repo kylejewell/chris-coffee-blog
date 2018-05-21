@@ -23,3 +23,4 @@ description: "Testing to see if this will get rid of the funny html that's showi
 	"1.3 Second Cycle Duration"
 	"Ridged Lower Fork"
 	>}}
+{{< article_schema >}}
