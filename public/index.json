@@ -4,39 +4,37 @@
     <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>Why Weigh Your Coffee | Chris' Coffee</title>
+    <title> | Chris' Coffee</title>
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="https://blog.chriscoffee.com/favicon.ico" />
-    <link rel="canonical" href="https://blog.chriscoffee.com/why-weigh-your-coffee/" />
+    <link rel="canonical" href="https://blog.chriscoffee.com/index.json" />
 
-     <meta name="description" content="From beans-to-brew your barista is weighing the entire process for the sake of your drink tasting the same every single time you walk through the door. Consiste" /> 
+     <meta name="description" content="" /> 
 
      
     
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:image" content="https://blog.chriscoffee.com/posts-content/acaia-scale.jpg"/>
+    <meta name="twitter:card" content="summary"/>
     
  
-    <meta name="twitter:title" content="Why Weigh Your Coffee"/>
-    <meta name="twitter:description" content="From beans-to-brew your barista is weighing the entire process for the sake of your drink tasting the same every single time you walk through the door. Consiste"/>
-    <meta name="twitter:url" content="https://blog.chriscoffee.com/why-weigh-your-coffee/" />
+    <meta name="twitter:title" content=""/>
+    <meta name="twitter:description" content=""/>
+    <meta name="twitter:url" content="https://blog.chriscoffee.com/index.json" />
     <meta name="twitter:site" content="@chriscoffeeserv"/>
 
     <meta property="og:site_name" content="" />
-    <meta property="og:title" content="Why Weigh Your Coffee &middot; Chris&#39; Coffee" />
-    <meta property="og:url" content="https://blog.chriscoffee.com/why-weigh-your-coffee/" />
+    <meta property="og:title" content=" &middot; Chris&#39; Coffee" />
+    <meta property="og:url" content="https://blog.chriscoffee.com/index.json" />
     <meta property="article:publisher" content="https://www.facebook.com/chriscoffeeservice" />
 
     <meta property="og:type" content="article" />
-    <meta property="og:description" content="From beans-to-brew your barista is weighing the entire process for the sake of your drink tasting the same every single time you walk through the door. Consiste" />
+    <meta property="og:description" content="" />
 
-    <meta property="article:published_time" content="2018-05-02T13:55:32-04:00" />
-    <meta property="article:tag" content="acaia lunar" /><meta property="article:tag" content="coffee scale" />
+    <meta property="article:published_time" content="2017-03-28T00:02:24&#43;01:00" />
+    
 
-    <meta property="og:image" content="https://blog.chriscoffee.com/posts-content/acaia-scale.jpg"/>
-
+    <meta property="og:image" content="https://blog.chriscoffee.com/img/cc-blog_header.jpg"/>
 
     <meta name="generator" content="Hugo 0.40.3" />
 
@@ -109,29 +107,17 @@
       <article class="post-full post"> 
     <header class="post-full-header">
         <section class="post-full-meta">
-            <time class="post-full-meta-date" datetime="2018-05-02">2 May 2018</time>
-                <span class="date-divider">/</span> <a href="https://blog.chriscoffee.com/tags/acaia-lunar/">#acaia lunar</a>&nbsp;<a href="https://blog.chriscoffee.com/tags/coffee-scale/">#coffee scale</a>&nbsp;
+            <time class="post-full-meta-date" datetime="2017-03-28">28 March 2017</time>
         </section>
-        <h1 class="post-full-title">Why Weigh Your Coffee</h1>
+        <h1 class="post-full-title"></h1>
     </header>
     
-    <figure class="post-full-image" style="background-image: url(https://blog.chriscoffee.com/posts-content/acaia-scale.jpg)">
+    <figure class="post-full-image" style="background-image: url(https://blog.chriscoffee.com/defimg/6.jpg)">
     </figure>
 
     <section class="post-full-content">
         <div class="kg-card-markdown">
-        <!-- KYLE EDITS -->
-
-<p>From beans-to-brew your barista is weighing the entire process for the sake of your drink tasting the same every single time you walk through the door. Consistency in any industry is key and in coffee it couldn't be more important. Widely talked about in the barista world, and as many home baristas start to dial in their recipes, the question will often come up of weight versus volume.</p>
-
-<!-- LACEY "Weight vs. Volume" -->
-
-<p>Let's say they have used 17g of grinds and are pulling a 2oz shot, but something is off in the profile?  The barista may start investigating using a 1:2 weight ratio for the recipe, and dialing in their espresso shot from that starting point. In the coffee world, the widely accepted answer is that using the weight of the output, in grams, versus ounces, yields more accurate and consistent results.</p>
-
-<p>The volume of a pulled shot can very for many reasons, but the biggest variable is the crema.  There are many factors that produce different amounts of crema in a pulled shot. Some of the factors include the origin, specific blend, freshness, and amount of time it has sat in the cup are all elements that can produce more or less crema in the shot. The crema will cause more disparity in measurement when using volume, however the weight will stay consistent.</p>
-
-<p>A 1:2 ratio is a great starting point, or 17g of grinds to 34g of espresso pulled.  However recipes vary widely and depend on the coffee and preferences of the barista.  Some recipes can vary as much as 1:1-2:2, depending on the roast and the drink.</p>
-    
+            
         </div>
     </section>
 
@@ -154,8 +140,8 @@
 
 
 var disqus_config = function () {
-this.page.url = "https:\/\/blog.chriscoffee.com\/why-weigh-your-coffee\/";  
-this.page.identifier = "https:\/\/blog.chriscoffee.com\/why-weigh-your-coffee\/"; 
+this.page.url = "https:\/\/blog.chriscoffee.com\/index.json";  
+this.page.identifier = "https:\/\/blog.chriscoffee.com\/index.json"; 
 };
 (function() { 
 var d = document, s = d.createElement('script');
@@ -180,7 +166,6 @@ s.setAttribute('data-timestamp', +new Date());
     <header class="read-next-card-header">
         <small class="read-next-card-header-sitetitle">&mdash; Chris&#39; Coffee &mdash;</small>
         
-        <h3 class="read-next-card-header-title"><a href="https://blog.chriscoffee.com/tags/acaia-lunar/">#acaia lunar</a></h3>
     </header>
     <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
     </div>
@@ -188,87 +173,22 @@ s.setAttribute('data-timestamp', +new Date());
     <div class="read-next-card-content">
       
         <ul>
-          <li><a href="https://blog.chriscoffee.com/how-to-make-the-perfect-shot-of-espresso/">How-To Make the Perfect Shot of Espresso</a></li>            
+          <li><a href="https://blog.chriscoffee.com/brew-with-french-press/">Brew With French Press</a></li>            
         
           <li><a href="https://blog.chriscoffee.com/how-to-tamp-espresso/">How to Tamp Espresso</a></li>            
         
-          <li><a href="https://blog.chriscoffee.com/choosing-an-espresso-grinder/">Choosing an Espresso Grinder</a></li>            
+          <li><a href="https://blog.chriscoffee.com/water-filtration-what-to-do-when-your-water-isnt-up-to-snuff/">Water Filtration: What to Do When Your Water Isn&#39;t Up to Snuff</a></li>            
         
-          <li><a href="https://blog.chriscoffee.com/choosing-the-right-baratza-coffee-grinder/">Choosing the Right Baratza Coffee Grinder</a></li>            
+          <li><a href="https://blog.chriscoffee.com/single-boiler-vs-dual-boiler/">Single Boiler vs Dual Boiler</a></li>            
         </ul>
     </div>
     <footer class="read-next-card-footer">
       
-        <a href="https://blog.chriscoffee.com/tags/acaia-lunar/">See all related posts →</a>
     </footer>
 </article>
 
 
       
-      <article class="post-card post"> 
-    
-    <a class="post-card-image-link" href="https://blog.chriscoffee.com/linea-mini-vs-gs3/">
-      <div class="post-card-image" style="background-image: url(https://blog.chriscoffee.com/posts-content/linea-mini-vs-gs3.jpg)"></div>
-    </a>
-    
-
-    <div class="post-card-content">
-      <a class="post-card-content-link" href="https://blog.chriscoffee.com/linea-mini-vs-gs3/">
-          <header class="post-card-header">
-              <span class="post-card-tags">
-              #reviews 
-              #la marzocco 
-              #linea mini 
-              #gs3  </span>
-              
-              <h2 class="post-card-title">Linea Mini vs GS3</h2>
-          </header>
-          <section class="post-card-excerpt">
-              
-                <p>La Marzocco is known for their handmade, quality home espresso machines and commercial espresso machines. They have been building coffee machines since 1927, and introduced us to the double-boiler machine, amongst other industry innovations that they have pioneered over their nearly a century in the coffee industry. If you've been in the market for a home espresso machine, you have definitely come across these two popular machines, loved by home baristas everywhere! ...  </p>
-              
-          </section>
-      </a>
-
-      <footer class="post-card-meta">
-          <img class="author-profile-image" src="https://blog.chriscoffee.com/img/chris-icon.jpg" alt="Author" />
-          <span class="post-card-author"><a href="/">Chris</a></span>
-      </footer>
-    </div>
-</article>
-      
-      
-      <article class="post-card post"> 
-    
-    <a class="post-card-image-link" href="https://blog.chriscoffee.com/hibiscus-latte-the-perfect-spring-latte/">
-      <div class="post-card-image" style="background-image: url(https://blog.chriscoffee.com/posts-content/hibiscus-latte-recipe.jpg)"></div>
-    </a>
-    
-
-    <div class="post-card-content">
-      <a class="post-card-content-link" href="https://blog.chriscoffee.com/hibiscus-latte-the-perfect-spring-latte/">
-          <header class="post-card-header">
-              <span class="post-card-tags">
-              #recipes 
-              #latte 
-              #machristay 
-              #guatemalan coffee  </span>
-              
-              <h2 class="post-card-title">Hibiscus Latte, The Perfect Spring Latte</h2>
-          </header>
-          <section class="post-card-excerpt">
-              
-                <p>Spring is finally arrived in Upstate New York after frequent teasing by mother nature. As May rolls in with its wavering rainy days and sun flooded afternoons, this comforting sweet and floral recipe is the perfect last hot drink to curl up with as we wait for summer. The Hibiscus Latteis a great compliment to many coffees because, as you may have already noted, many varieties of beans naturally carry the subtle floral tea-like undertones in their flavor profile. ...  </p>
-              
-          </section>
-      </a>
-
-      <footer class="post-card-meta">
-          <img class="author-profile-image" src="https://blog.chriscoffee.com/img/chris-icon.jpg" alt="Author" />
-          <span class="post-card-author"><a href="/">Chris</a></span>
-      </footer>
-    </div>
-</article>
       
     </div>
   </div>
@@ -281,17 +201,17 @@ s.setAttribute('data-timestamp', +new Date());
     </a>
   </div>
   
-  <div class="floating-header-title">Why Weigh Your Coffee</div>
+  <div class="floating-header-title"></div>
   <div class="floating-header-share">
     <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
      <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/></svg>
     </div>
     
-    <a class="floating-header-share-tw" href="https://twitter.com/share?text=Why%20Weigh%20Your%20Coffee&amp;url=https%3a%2f%2fblog.chriscoffee.com%2fwhy-weigh-your-coffee%2f"
+    <a class="floating-header-share-tw" href="https://twitter.com/share?text=&amp;url=https%3a%2f%2fblog.chriscoffee.com%2findex.json"
           onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
       </a>
-      <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fblog.chriscoffee.com%2fwhy-weigh-your-coffee%2f"
+      <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fblog.chriscoffee.com%2findex.json"
           onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
       </a>
