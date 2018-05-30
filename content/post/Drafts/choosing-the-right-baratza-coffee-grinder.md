@@ -35,7 +35,7 @@ image: /posts-content/choosing-the-right-baratza-coffee-grinder.jpg
 
 <h3>Prosumer Espresso Grinder</h3>
 <p>Bringing professional quality to home espresso grinders is no easy task if you're looking to maintain a competitive price. The Sette espresso grinder has 30 steps of macro-adjustment and a fully stepless micro-adjustment system that gives you nearly an infinite number of grind settings to allow for the best grind.<br>
-	
+
 {{< figure link="/img/baratza-grinders/baratza-encore_front.jpg" alt="Baratza grinder" thumb="-thumb" >}}<br/>
 <center>{{<cta "Vario" "https://www.chriscoffee.com/Baratza-Vario-Coffee-Grinder-p/886.htm" >}}&nbsp;&nbsp;&nbsp;{{<cta "Vario-W" "https://www.chriscoffee.com/Baratza-Vario-W-Coffee-Grinder-p/986.htm" >}}</center></p>
 <br>
