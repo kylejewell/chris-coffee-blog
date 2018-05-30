@@ -8,13 +8,12 @@ paginate        = 6
 [params]
   title       = "Chris' Coffee"
   subtitle    = "Experts in Coffee Since 1975"
-
   cover       = "img/cc-blog_header.jpg"
   description = "Experts in coffee since 1975, Chris' Coffee strives to share our industry knowledge and answer all question our customers have. Subscribe to our blog for the latest knowledge added weeekly."
   metaDescription = ""
   googleAnalytics = "UA-1513659-2"
   customCSS = []
-  RSSLink = ""
+  RSSLink = "/index.xml"
 
   twitterName = "chriscoffeeserv"
   fbName = "chriscoffeeservice"
