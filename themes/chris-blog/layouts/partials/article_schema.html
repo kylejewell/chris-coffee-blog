@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Site.BaseURL }}"
+  },
+  "headline": "{{ .Title }}",
+  "image": [
+    "https://example.com/photos/1x1/photo.jpg",
+    "https://example.com/photos/4x3/photo.jpg",
+    "https://example.com/photos/16x9/photo.jpg"
+   ],
+  "datePublished": "{{ .Date }}",
+  "dateModified": "{{ .Date }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "Chris' Coffee",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.logo  | absURL}}"
+    }
+  },
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.Params.logo  | absURL}}",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+1-518-452-5994",
+    "contactType": "customer service"
+  }]
+}
+</script>
